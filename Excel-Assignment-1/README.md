@@ -1,7 +1,20 @@
 # Excel Assignment 1 – Data Exploration
 
 ## Overview
-This folder contains the Excel workbook and PDF report for Excel Assignment 1.
+This project demonstrates data exploration in Microsoft Excel using basic formulas and functions.
+
+## Functions Used
+- SUM
+- COUNT
+- AVERAGE
+- MIN
+- MAX
+- IF
+- SUMIF
+- COUNTIF
+- LEFT
+- MID
+- RIGHT
 
 ## Files
 - Excel Assignment 1 - Data Exploration.xlsx
